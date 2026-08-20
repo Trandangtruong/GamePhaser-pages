@@ -11,6 +11,7 @@ Repo **private** — nguồn quản lý hub static (HTML5). Push `main` sẽ aut
 | Game | Thư mục | URL |
 |------|---------|-----|
 | Foodie Match | `food/` | https://trandangtruong.github.io/GamePhaser-pages/food/ |
+| Tile Trip | `title/` | https://trandangtruong.github.io/GamePhaser-pages/title/ |
 
 ## Cấu trúc
 

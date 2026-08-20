@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Tile Trip</title>
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+  <meta name="theme-color" content="#87b8e0" />
+  <link rel="stylesheet" href="./game.css" />
+  <script type="module" crossorigin src="./assets/index-BsuJf29N.js"></script>
+</head>
+<body>
+  <div id="game">
+    <div id="boot-preloader"><div class="boot-spinner"></div></div>
+  </div>
+  <script>
+    (function () {
+      var pre = document.getElementById('boot-preloader');
+      var host = document.getElementById('game');
+      if (!pre || !host) return;
+      var hide = function () {
+        if (!pre) return;
+        pre.classList.add('hide');
+        var el = pre; pre = null;
+        setTimeout(function () { if (el.parentNode) el.parentNode.removeChild(el); }, 400);
+      };
+      if (typeof MutationObserver !== 'undefined') {
+        var obs = new MutationObserver(function () {
+          if (host.querySelector('canvas')) { obs.disconnect(); hide(); }
+        });
+        obs.observe(host, { childList: true });
+      }
+      setTimeout(hide, 20000);
+    })();
+  </script>
+</body>
+</html>
