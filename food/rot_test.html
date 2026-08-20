@@ -1,0 +1,37 @@
+<!doctype html><canvas id=c width=800 height=900></canvas>
+<script>
+const img=new Image();
+img.src='http://127.0.0.1:5180/assets/img/ui_play.png';
+fetch('http://127.0.0.1:5180/assets/img/ui_play.json').then(r=>r.json()).then(async j=>{
+  await img.decode();
+  const f=j.frames.thanhngang;
+  const c=document.getElementById('c');
+  const ctx=c.getContext('2d');
+  ctx.fillStyle='#333'; ctx.fillRect(0,0,800,900);
+  // A: Phaser-style: atlas rect is swapped, draw unrotated by rotating -90
+  ctx.save();
+  ctx.translate(20,20);
+  ctx.fillStyle='#0f0'; ctx.fillText('A atlas-swapped + unrotate',0,-5);
+  const aw=f.frame.w, ah=f.frame.h; // 69x720
+  const lw=ah, lh=aw; // 720x69
+  const off=document.createElement('canvas');
+  off.width=lw; off.height=lh;
+  const o=off.getContext('2d');
+  o.translate(0,lh); o.rotate(-Math.PI/2);
+  o.drawImage(img,f.frame.x,f.frame.y,aw,ah,0,0,aw,ah);
+  ctx.drawImage(off,0,0);
+  ctx.restore();
+  // B: draw atlas rect as-is (would look vertical)
+  ctx.save();
+  ctx.translate(20,120);
+  ctx.fillStyle='#0f0'; ctx.fillText('B raw atlas rect (vertical)',0,-5);
+  ctx.drawImage(img,f.frame.x,f.frame.y,aw,ah,0,0,aw/4,ah/4);
+  ctx.restore();
+  // C: Cocos logical rect without swap (WRONG oob)
+  ctx.save();
+  ctx.translate(220,120);
+  ctx.fillStyle='#0f0'; ctx.fillText('C logical 720x69 at same xy (clipped)',0,-5);
+  ctx.drawImage(img,f.frame.x,f.frame.y,720,69,0,0,360,34);
+  ctx.restore();
+});
+</script>

@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Atlas preview</title>
+  <style>
+    body { background: #2b2b2b; color: #eee; font: 12px monospace; margin: 12px; }
+    h2 { color: #ffd479; }
+    .grid { display: flex; flex-wrap: wrap; gap: 8px; }
+    .cell { background: #444; padding: 4px; text-align: center; }
+    .cell canvas { display: block; background:
+      repeating-conic-gradient(#666 0% 25%, #555 0% 50%) 50% / 12px 12px; }
+    .cell span { display: block; max-width: 160px; word-break: break-all; }
+  </style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+const ATLASES = ['ui_play', 'ui_booster', 'ui_common', 'skewers'];
+
+function drawFrame(img, f) {
+  const rot = !!f.rotated;
+  const atlasW = f.frame.w;
+  const atlasH = f.frame.h;
+  const logicW = rot ? atlasH : atlasW;
+  const logicH = rot ? atlasW : atlasH;
+  const canvas = document.createElement('canvas');
+  canvas.width = logicW;
+  canvas.height = logicH;
+  const ctx = canvas.getContext('2d');
+  if (rot) {
+    ctx.translate(0, logicH);
+    ctx.rotate(-Math.PI / 2);
+    ctx.drawImage(img, f.frame.x, f.frame.y, atlasW, atlasH, 0, 0, atlasW, atlasH);
+  } else {
+    ctx.drawImage(img, f.frame.x, f.frame.y, atlasW, atlasH, 0, 0, logicW, logicH);
+  }
+  return canvas;
+}
+
+(async () => {
+  const root = document.getElementById('root');
+  for (const key of ATLASES) {
+    const meta = await fetch(`assets/img/${key}.json`).then((r) => r.json());
+    const img = new Image();
+    img.src = `assets/img/${key}.png`;
+    await img.decode();
+    const title = document.createElement('h2');
+    title.textContent = `${key} (${img.width}x${img.height}) — ${Object.keys(meta.frames).length} frames`;
+    root.appendChild(title);
+    const grid = document.createElement('div');
+    grid.className = 'grid';
+    for (const [name, f] of Object.entries(meta.frames)) {
+      const cell = document.createElement('div');
+      cell.className = 'cell';
+      cell.appendChild(drawFrame(img, f));
+      const label = document.createElement('span');
+      label.textContent = `${name} ${f.frame.w}x${f.frame.h}${f.rotated ? ' R' : ''}`;
+      cell.appendChild(label);
+      grid.appendChild(cell);
+    }
+    root.appendChild(grid);
+  }
+  document.title = 'atlas-preview-ready';
+})();
+</script>
+</body>
+</html>

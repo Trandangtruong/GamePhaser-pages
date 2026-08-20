@@ -1,0 +1,828 @@
+{
+  "numberCellLock": 2,
+  "maxUniqueColors": 15,
+  "hasOrderedSkewerShelves": true,
+  "hasIcedItems": true,
+  "hasFoilItems": true,
+  "cells": [
+    {
+      "posX": -12,
+      "posY": 6,
+      "cellType": 3,
+      "moveType": 2,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            118,
+            0,
+            118
+          ]
+        },
+        {
+          "items": [
+            97,
+            97,
+            0
+          ]
+        },
+        {
+          "items": [
+            0,
+            19,
+            20
+          ]
+        },
+        {
+          "items": [
+            7,
+            7,
+            0
+          ]
+        },
+        {
+          "items": [
+            7,
+            6,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "posX": -7,
+      "posY": 6,
+      "cellType": 3,
+      "moveType": 2,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            119,
+            0,
+            103
+          ]
+        },
+        {
+          "items": [
+            0,
+            42,
+            42
+          ]
+        },
+        {
+          "items": [
+            23,
+            37,
+            23
+          ]
+        },
+        {
+          "items": [
+            0,
+            8,
+            8
+          ]
+        },
+        {
+          "items": [
+            4,
+            0,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "posX": -2,
+      "posY": 6,
+      "cellType": 3,
+      "moveType": 2,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            101,
+            101,
+            44
+          ]
+        },
+        {
+          "items": [
+            34,
+            0,
+            34
+          ]
+        },
+        {
+          "items": [
+            0,
+            34,
+            31
+          ]
+        },
+        {
+          "items": [
+            13,
+            0,
+            0
+          ]
+        },
+        {
+          "items": [
+            0,
+            11,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 3,
+      "posY": 6,
+      "cellType": 3,
+      "moveType": 2,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            0,
+            108,
+            108
+          ]
+        },
+        {
+          "items": [
+            33,
+            0,
+            33
+          ]
+        },
+        {
+          "items": [
+            100,
+            101,
+            18
+          ]
+        },
+        {
+          "items": [
+            0,
+            19,
+            0
+          ]
+        },
+        {
+          "items": [
+            0,
+            0,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 8,
+      "posY": 6,
+      "cellType": 3,
+      "moveType": 2,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            40,
+            32,
+            33
+          ]
+        },
+        {
+          "items": [
+            0,
+            29,
+            27
+          ]
+        },
+        {
+          "items": [
+            30,
+            0,
+            26
+          ]
+        },
+        {
+          "items": [
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "items": [
+            8,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 13,
+      "posY": 6,
+      "cellType": 3,
+      "moveType": 2,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            0,
+            72,
+            72
+          ]
+        },
+        {
+          "items": [
+            28,
+            0,
+            105
+          ]
+        },
+        {
+          "items": [
+            0,
+            25,
+            0
+          ]
+        },
+        {
+          "items": [
+            17,
+            0,
+            17
+          ]
+        },
+        {
+          "items": [
+            9,
+            2,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "posX": -12,
+      "posY": 2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            102,
+            102,
+            0
+          ]
+        },
+        {
+          "items": [
+            0,
+            39,
+            39
+          ]
+        },
+        {
+          "items": [
+            28,
+            28,
+            0
+          ]
+        },
+        {
+          "items": [
+            0,
+            14,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "posX": -6,
+      "posY": 2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            118,
+            120,
+            120
+          ]
+        },
+        {
+          "items": [
+            35,
+            35,
+            104
+          ]
+        },
+        {
+          "items": [
+            36,
+            0,
+            0
+          ]
+        },
+        {
+          "items": [
+            0,
+            0,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 0,
+      "posY": 2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            0,
+            100,
+            100
+          ]
+        },
+        {
+          "items": [
+            36,
+            36,
+            41
+          ]
+        },
+        {
+          "items": [
+            25,
+            24,
+            24
+          ]
+        },
+        {
+          "items": [
+            16,
+            13,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 6,
+      "posY": 2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            92,
+            97,
+            98
+          ]
+        },
+        {
+          "items": [
+            91,
+            91,
+            0
+          ]
+        },
+        {
+          "items": [
+            24,
+            99,
+            99
+          ]
+        },
+        {
+          "items": [
+            12,
+            15,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 12,
+      "posY": 2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "items": [
+            32,
+            103,
+            32
+          ]
+        },
+        {
+          "items": [
+            96,
+            93,
+            96
+          ]
+        },
+        {
+          "items": [
+            0,
+            5,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "posX": -12,
+      "posY": -2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            108,
+            0,
+            122
+          ]
+        },
+        {
+          "items": [
+            30,
+            42,
+            0
+          ]
+        },
+        {
+          "items": [
+            92,
+            30,
+            92
+          ]
+        },
+        {
+          "items": [
+            0,
+            3,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "posX": -6,
+      "posY": -2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            0,
+            122,
+            122
+          ]
+        },
+        {
+          "items": [
+            40,
+            38,
+            40
+          ]
+        },
+        {
+          "items": [
+            22,
+            22,
+            19
+          ]
+        },
+        {
+          "items": [
+            0,
+            13,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 0,
+      "posY": -2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            72,
+            95,
+            121
+          ]
+        },
+        {
+          "items": [
+            31,
+            0,
+            31
+          ]
+        },
+        {
+          "items": [
+            93,
+            94,
+            94
+          ]
+        },
+        {
+          "items": [
+            0,
+            15,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 6,
+      "posY": -2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            120,
+            119,
+            119
+          ]
+        },
+        {
+          "items": [
+            99,
+            38,
+            0
+          ]
+        },
+        {
+          "items": [
+            0,
+            21,
+            21
+          ]
+        },
+        {
+          "items": [
+            18,
+            18,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 12,
+      "posY": -2,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            0,
+            106,
+            106
+          ]
+        },
+        {
+          "items": [
+            37,
+            39,
+            37
+          ]
+        },
+        {
+          "items": [
+            20,
+            21,
+            20
+          ]
+        },
+        {
+          "items": [
+            12,
+            15,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "posX": -12,
+      "posY": -6,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            121,
+            121,
+            1
+          ]
+        },
+        {
+          "items": [
+            44,
+            44,
+            0
+          ]
+        },
+        {
+          "items": [
+            0,
+            23,
+            22
+          ]
+        },
+        {
+          "items": [
+            0,
+            17,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "posX": -6,
+      "posY": -6,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            94,
+            96,
+            103
+          ]
+        },
+        {
+          "items": [
+            43,
+            41,
+            41
+          ]
+        },
+        {
+          "items": [
+            0,
+            29,
+            29
+          ]
+        },
+        {
+          "items": [
+            16,
+            12,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 0,
+      "posY": -6,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            105,
+            105,
+            0
+          ]
+        },
+        {
+          "items": [
+            0,
+            91,
+            26
+          ]
+        },
+        {
+          "items": [
+            98,
+            38,
+            98
+          ]
+        },
+        {
+          "items": [
+            0,
+            6,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 6,
+      "posY": -6,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            107,
+            107,
+            93
+          ]
+        },
+        {
+          "items": [
+            95,
+            95,
+            102
+          ]
+        },
+        {
+          "items": [
+            0,
+            25,
+            35
+          ]
+        },
+        {
+          "items": [
+            5,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "posX": 12,
+      "posY": -6,
+      "cellType": 3,
+      "moveType": 3,
+      "speed": 0,
+      "itemsLayer": [
+        {
+          "items": [
+            104,
+            104,
+            107
+          ]
+        },
+        {
+          "items": [
+            43,
+            106,
+            43
+          ]
+        },
+        {
+          "items": [
+            27,
+            26,
+            27
+          ]
+        },
+        {
+          "items": [
+            9,
+            6,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}
