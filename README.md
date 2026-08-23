@@ -14,6 +14,7 @@ Repo **private** — nguồn quản lý hub static (HTML5). Push `main` sẽ aut
 | Tile Trip | `title/` | https://trandangtruong.github.io/GamePhaser-pages/title/ |
 | Goods Tidy | `tidy/` | https://trandangtruong.github.io/GamePhaser-pages/tidy/ |
 | Pikachu | `Pikachu/` | https://trandangtruong.github.io/GamePhaser-pages/Pikachu/ |
+| Tetris | `Tetris/` | https://trandangtruong.github.io/GamePhaser-pages/Tetris/ |
 
 ## Cấu trúc
 
