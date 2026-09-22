@@ -1,0 +1,24 @@
+{
+  "advertisement": {
+    "minimumDelayBetweenInterstitial": 40,
+    "initialInterstitialDelay": 0,
+    "interstitial": {
+      "disable": false,
+      "preloadOnStart": "level_completed",
+      "placementFallback": "level_completed",
+      "placements": [
+        { "id": "level_completed" },
+        { "id": "level_failed" },
+        { "id": "home_play" }
+      ]
+    },
+    "rewarded": {
+      "disable": false,
+      "preloadOnStart": "booster",
+      "placementFallback": "booster",
+      "placements": [
+        { "id": "booster" }
+      ]
+    }
+  }
+}
