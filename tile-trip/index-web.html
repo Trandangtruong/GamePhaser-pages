@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Soft Cartoon</title>
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+  <meta name="theme-color" content="#87b8e0" />
+  <link rel="stylesheet" href="./game.css" />
+  <!-- __PLATFORM__ trước tiên. Ads SDK nạp TRỄ qua loadDeferredWebScripts(). -->
+  <script>window.__PLATFORM__ = 'web';</script>
+  <!-- bundle-gate TRƯỚC module: ép legacy trên J2 / ?bundle=legacy -->
+  <script src="./bundle-gate.js"></script>
+  <script>
+    window.adsbygoogle = window.adsbygoogle || [];
+    var adBreak = (adConfig = function (o) { adsbygoogle.push(o); });
+  </script>
+  <script type="module" crossorigin src="./assets/main-BFmanjmD.js"></script>
+  <script type="module">import.meta.url;import("_").catch(()=>1);(async function*(){})().next();if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+  <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+</head>
+<body>
+  <div id="boot-preloader"><div class="boot-spinner"></div></div>
+  <div id="game"></div>
+  <script>
+    (function () {
+      var pre = document.getElementById('boot-preloader');
+      var host = document.getElementById('game');
+      if (!pre || !host) return;
+      var hide = function () {
+        if (!pre) return;
+        pre.classList.add('hide');
+        var el = pre; pre = null;
+        setTimeout(function () { if (el.parentNode) el.parentNode.removeChild(el); }, 400);
+      };
+      if (typeof MutationObserver !== 'undefined') {
+        var obs = new MutationObserver(function () {
+          if (host.querySelector('canvas')) { obs.disconnect(); hide(); }
+        });
+        obs.observe(host, { childList: true });
+      }
+      setTimeout(hide, 20000);
+    })();
+  </script>
+  <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+  <script nomodule crossorigin id="vite-legacy-polyfill" src="./assets/polyfills-legacy-NhFwV3E_.js"></script>
+  <script nomodule crossorigin id="vite-legacy-entry" data-src="./assets/main-legacy-smh4o5j2.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+</body>
+</html>
