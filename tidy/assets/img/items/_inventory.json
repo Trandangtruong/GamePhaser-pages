@@ -1,0 +1,3170 @@
+[
+  {
+    "name": "AS_1",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_1.png",
+    "rect": {
+      "x": 3,
+      "y": 668,
+      "width": 62,
+      "height": 84
+    }
+  },
+  {
+    "name": "AS_1green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_1green.png",
+    "rect": {
+      "x": 628,
+      "y": 618,
+      "width": 62,
+      "height": 84
+    }
+  },
+  {
+    "name": "AS_2",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_2.png",
+    "rect": {
+      "x": 382,
+      "y": 610,
+      "width": 62,
+      "height": 84
+    }
+  },
+  {
+    "name": "AS_3",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_3.png",
+    "rect": {
+      "x": 892,
+      "y": 697,
+      "width": 63,
+      "height": 88
+    }
+  },
+  {
+    "name": "AS_3green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_3green.png",
+    "rect": {
+      "x": 93,
+      "y": 670,
+      "width": 63,
+      "height": 87
+    }
+  },
+  {
+    "name": "AS_4",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_4.png",
+    "rect": {
+      "x": 761,
+      "y": 832,
+      "width": 63,
+      "height": 88
+    }
+  },
+  {
+    "name": "AS_5",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_5.png",
+    "rect": {
+      "x": 715,
+      "y": 689,
+      "width": 63,
+      "height": 88
+    }
+  },
+  {
+    "name": "AS_6",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_6.png",
+    "rect": {
+      "x": 372,
+      "y": 747,
+      "width": 63,
+      "height": 88
+    }
+  },
+  {
+    "name": "AS_7",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_7.png",
+    "rect": {
+      "x": 370,
+      "y": 816,
+      "width": 63,
+      "height": 88
+    }
+  },
+  {
+    "name": "AS_8",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_8.png",
+    "rect": {
+      "x": 3,
+      "y": 3,
+      "width": 41,
+      "height": 107
+    }
+  },
+  {
+    "name": "AS_8green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_8green.png",
+    "rect": {
+      "x": 127,
+      "y": 50,
+      "width": 45,
+      "height": 107
+    }
+  },
+  {
+    "name": "AS_9",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_9.png",
+    "rect": {
+      "x": 116,
+      "y": 3,
+      "width": 41,
+      "height": 107
+    }
+  },
+  {
+    "name": "AS_10",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_10.png",
+    "rect": {
+      "x": 455,
+      "y": 3,
+      "width": 41,
+      "height": 107
+    }
+  },
+  {
+    "name": "AS_11",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_11.png",
+    "rect": {
+      "x": 730,
+      "y": 553,
+      "width": 62,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_12",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_12.png",
+    "rect": {
+      "x": 314,
+      "y": 540,
+      "width": 62,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_13",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_13.png",
+    "rect": {
+      "x": 628,
+      "y": 550,
+      "width": 62,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_14",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_14.png",
+    "rect": {
+      "x": 186,
+      "y": 671,
+      "width": 62,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_15",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_15.png",
+    "rect": {
+      "x": 3,
+      "y": 532,
+      "width": 62,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_15green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_15green.png",
+    "rect": {
+      "x": 3,
+      "y": 600,
+      "width": 62,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_16",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_16.png",
+    "rect": {
+      "x": 718,
+      "y": 621,
+      "width": 62,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_17",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_17.png",
+    "rect": {
+      "x": 897,
+      "y": 629,
+      "width": 62,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_18",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_18.png",
+    "rect": {
+      "x": 832,
+      "y": 558,
+      "width": 62,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_19",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_19.png",
+    "rect": {
+      "x": 861,
+      "y": 1914,
+      "width": 81,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_20",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_20.png",
+    "rect": {
+      "x": 250,
+      "y": 1957,
+      "width": 81,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_21",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_21.png",
+    "rect": {
+      "x": 963,
+      "y": 1916,
+      "width": 81,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_22",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_22.png",
+    "rect": {
+      "x": 636,
+      "y": 1889,
+      "width": 81,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_23",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_23.png",
+    "rect": {
+      "x": 411,
+      "y": 1881,
+      "width": 81,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_24",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_24.png",
+    "rect": {
+      "x": 194,
+      "y": 603,
+      "width": 62,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_24green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_24green.png",
+    "rect": {
+      "x": 924,
+      "y": 561,
+      "width": 62,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_25",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_25.png",
+    "rect": {
+      "x": 527,
+      "y": 544,
+      "width": 62,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_26",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_26.png",
+    "rect": {
+      "x": 192,
+      "y": 1164,
+      "width": 65,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_27",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_27.png",
+    "rect": {
+      "x": 492,
+      "y": 1173,
+      "width": 65,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_28",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_28.png",
+    "rect": {
+      "x": 696,
+      "y": 1113,
+      "width": 65,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_29",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_29.png",
+    "rect": {
+      "x": 568,
+      "y": 3,
+      "width": 43,
+      "height": 113
+    }
+  },
+  {
+    "name": "AS_29green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_29green.png",
+    "rect": {
+      "x": 687,
+      "y": 3,
+      "width": 43,
+      "height": 113
+    }
+  },
+  {
+    "name": "AS_30",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_30.png",
+    "rect": {
+      "x": 806,
+      "y": 3,
+      "width": 43,
+      "height": 113
+    }
+  },
+  {
+    "name": "AS_31",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_31.png",
+    "rect": {
+      "x": 442,
+      "y": 1633,
+      "width": 74,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_32",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_32.png",
+    "rect": {
+      "x": 513,
+      "y": 1553,
+      "width": 74,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_33",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_33.png",
+    "rect": {
+      "x": 341,
+      "y": 1627,
+      "width": 74,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_34",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_34.png",
+    "rect": {
+      "x": 543,
+      "y": 1641,
+      "width": 74,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_35",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_35.png",
+    "rect": {
+      "x": 980,
+      "y": 1831,
+      "width": 79,
+      "height": 82
+    }
+  },
+  {
+    "name": "AS_36",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_36.png",
+    "rect": {
+      "x": 435,
+      "y": 1796,
+      "width": 79,
+      "height": 82
+    }
+  },
+  {
+    "name": "AS_37",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_37.png",
+    "rect": {
+      "x": 441,
+      "y": 1713,
+      "width": 77,
+      "height": 82
+    }
+  },
+  {
+    "name": "AS_38",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_38.png",
+    "rect": {
+      "x": 839,
+      "y": 1567,
+      "width": 79,
+      "height": 82
+    }
+  },
+  {
+    "name": "AS_39",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_39.png",
+    "rect": {
+      "x": 871,
+      "y": 1046,
+      "width": 64,
+      "height": 99
+    }
+  },
+  {
+    "name": "AS_40",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_40.png",
+    "rect": {
+      "x": 650,
+      "y": 965,
+      "width": 64,
+      "height": 99
+    }
+  },
+  {
+    "name": "AS_41",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_41.png",
+    "rect": {
+      "x": 195,
+      "y": 1094,
+      "width": 64,
+      "height": 99
+    }
+  },
+  {
+    "name": "AS_42",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_42.png",
+    "rect": {
+      "x": 650,
+      "y": 1035,
+      "width": 64,
+      "height": 99
+    }
+  },
+  {
+    "name": "AS_43",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_43.png",
+    "rect": {
+      "x": 494,
+      "y": 1103,
+      "width": 64,
+      "height": 99
+    }
+  },
+  {
+    "name": "AS_44",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_44.png",
+    "rect": {
+      "x": 466,
+      "y": 749,
+      "width": 64,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_44green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_44green.png",
+    "rect": {
+      "x": 464,
+      "y": 819,
+      "width": 64,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_45",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_45.png",
+    "rect": {
+      "x": 281,
+      "y": 814,
+      "width": 64,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_46",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_46.png",
+    "rect": {
+      "x": 368,
+      "y": 955,
+      "width": 64,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_47",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_47.png",
+    "rect": {
+      "x": 457,
+      "y": 959,
+      "width": 64,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_48",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_48.png",
+    "rect": {
+      "x": 760,
+      "y": 901,
+      "width": 64,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_49",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_49.png",
+    "rect": {
+      "x": 229,
+      "y": 162,
+      "width": 51,
+      "height": 116
+    }
+  },
+  {
+    "name": "AS_50",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_50.png",
+    "rect": {
+      "x": 3,
+      "y": 157,
+      "width": 51,
+      "height": 116
+    }
+  },
+  {
+    "name": "AS_51",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_51.png",
+    "rect": {
+      "x": 351,
+      "y": 163,
+      "width": 51,
+      "height": 116
+    }
+  },
+  {
+    "name": "AS_52",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_52.png",
+    "rect": {
+      "x": 670,
+      "y": 108,
+      "width": 51,
+      "height": 116
+    }
+  },
+  {
+    "name": "AS_53",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_53.png",
+    "rect": {
+      "x": 3,
+      "y": 100,
+      "width": 51,
+      "height": 116
+    }
+  },
+  {
+    "name": "AS_54",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_54.png",
+    "rect": {
+      "x": 836,
+      "y": 356,
+      "width": 58,
+      "height": 109
+    }
+  },
+  {
+    "name": "AS_55",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_55.png",
+    "rect": {
+      "x": 98,
+      "y": 404,
+      "width": 58,
+      "height": 109
+    }
+  },
+  {
+    "name": "AS_56",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_56.png",
+    "rect": {
+      "x": 951,
+      "y": 361,
+      "width": 58,
+      "height": 109
+    }
+  },
+  {
+    "name": "AS_57",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_57.png",
+    "rect": {
+      "x": 213,
+      "y": 406,
+      "width": 58,
+      "height": 109
+    }
+  },
+  {
+    "name": "AS_58",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_58.png",
+    "rect": {
+      "x": 3,
+      "y": 1228,
+      "width": 67,
+      "height": 84
+    }
+  },
+  {
+    "name": "AS_59",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_59.png",
+    "rect": {
+      "x": 279,
+      "y": 1236,
+      "width": 67,
+      "height": 84
+    }
+  },
+  {
+    "name": "AS_60",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_60.png",
+    "rect": {
+      "x": 189,
+      "y": 1235,
+      "width": 67,
+      "height": 84
+    }
+  },
+  {
+    "name": "AS_61",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_61.png",
+    "rect": {
+      "x": 97,
+      "y": 1782,
+      "width": 75,
+      "height": 119
+    }
+  },
+  {
+    "name": "AS_62",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_62.png",
+    "rect": {
+      "x": 644,
+      "y": 1646,
+      "width": 75,
+      "height": 119
+    }
+  },
+  {
+    "name": "AS_63",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_63.png",
+    "rect": {
+      "x": 884,
+      "y": 1669,
+      "width": 75,
+      "height": 119
+    }
+  },
+  {
+    "name": "AS_64",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_64.png",
+    "rect": {
+      "x": 635,
+      "y": 1727,
+      "width": 75,
+      "height": 119
+    }
+  },
+  {
+    "name": "AS_65",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_65.png",
+    "rect": {
+      "x": 884,
+      "y": 1750,
+      "width": 75,
+      "height": 119
+    }
+  },
+  {
+    "name": "AS_66",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_66.png",
+    "rect": {
+      "x": 618,
+      "y": 1808,
+      "width": 75,
+      "height": 119
+    }
+  },
+  {
+    "name": "AS_67",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_67.png",
+    "rect": {
+      "x": 516,
+      "y": 1475,
+      "width": 72,
+      "height": 99
+    }
+  },
+  {
+    "name": "AS_67green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_67green.png",
+    "rect": {
+      "x": 3,
+      "y": 1695,
+      "width": 75,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_68",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_68.png",
+    "rect": {
+      "x": 621,
+      "y": 1484,
+      "width": 72,
+      "height": 99
+    }
+  },
+  {
+    "name": "AS_69",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_69.png",
+    "rect": {
+      "x": 202,
+      "y": 1464,
+      "width": 72,
+      "height": 99
+    }
+  },
+  {
+    "name": "AS_70",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_70.png",
+    "rect": {
+      "x": 411,
+      "y": 1470,
+      "width": 72,
+      "height": 99
+    }
+  },
+  {
+    "name": "AS_71",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_71.png",
+    "rect": {
+      "x": 743,
+      "y": 1818,
+      "width": 77,
+      "height": 113
+    }
+  },
+  {
+    "name": "AS_71green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_71green.png",
+    "rect": {
+      "x": 760,
+      "y": 1736,
+      "width": 76,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_72",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_72.png",
+    "rect": {
+      "x": 862,
+      "y": 1831,
+      "width": 77,
+      "height": 112
+    }
+  },
+  {
+    "name": "AS_73",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_73.png",
+    "rect": {
+      "x": 317,
+      "y": 1789,
+      "width": 77,
+      "height": 112
+    }
+  },
+  {
+    "name": "AS_74",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_74.png",
+    "rect": {
+      "x": 322,
+      "y": 1707,
+      "width": 76,
+      "height": 113
+    }
+  },
+  {
+    "name": "AS_75",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_75.png",
+    "rect": {
+      "x": 112,
+      "y": 1700,
+      "width": 76,
+      "height": 112
+    }
+  },
+  {
+    "name": "AS_76",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_76.png",
+    "rect": {
+      "x": 924,
+      "y": 1590,
+      "width": 73,
+      "height": 108
+    }
+  },
+  {
+    "name": "AS_76green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_76green.png",
+    "rect": {
+      "x": 769,
+      "y": 1655,
+      "width": 75,
+      "height": 109
+    }
+  },
+  {
+    "name": "AS_77",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_77.png",
+    "rect": {
+      "x": 725,
+      "y": 1567,
+      "width": 73,
+      "height": 108
+    }
+  },
+  {
+    "name": "AS_78",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_78.png",
+    "rect": {
+      "x": 117,
+      "y": 1621,
+      "width": 73,
+      "height": 108
+    }
+  },
+  {
+    "name": "AS_79",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_79.png",
+    "rect": {
+      "x": 3,
+      "y": 1616,
+      "width": 73,
+      "height": 108
+    }
+  },
+  {
+    "name": "AS_80",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_80.png",
+    "rect": {
+      "x": 3,
+      "y": 1537,
+      "width": 73,
+      "height": 108
+    }
+  },
+  {
+    "name": "AS_81",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_81.png",
+    "rect": {
+      "x": 764,
+      "y": 1411,
+      "width": 70,
+      "height": 111
+    }
+  },
+  {
+    "name": "AS_81green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_81green.png",
+    "rect": {
+      "x": 84,
+      "y": 1459,
+      "width": 72,
+      "height": 112
+    }
+  },
+  {
+    "name": "AS_82",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_82.png",
+    "rect": {
+      "x": 647,
+      "y": 1408,
+      "width": 70,
+      "height": 111
+    }
+  },
+  {
+    "name": "AS_83",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_83.png",
+    "rect": {
+      "x": 773,
+      "y": 1335,
+      "width": 70,
+      "height": 111
+    }
+  },
+  {
+    "name": "AS_84",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_84.png",
+    "rect": {
+      "x": 325,
+      "y": 1388,
+      "width": 70,
+      "height": 111
+    }
+  },
+  {
+    "name": "AS_85",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_85.png",
+    "rect": {
+      "x": 208,
+      "y": 1388,
+      "width": 70,
+      "height": 111
+    }
+  },
+  {
+    "name": "AS_86",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_86.png",
+    "rect": {
+      "x": 231,
+      "y": 1622,
+      "width": 73,
+      "height": 104
+    }
+  },
+  {
+    "name": "AS_86green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_86green.png",
+    "rect": {
+      "x": 614,
+      "y": 1562,
+      "width": 73,
+      "height": 105
+    }
+  },
+  {
+    "name": "AS_87",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_87.png",
+    "rect": {
+      "x": 925,
+      "y": 1511,
+      "width": 73,
+      "height": 104
+    }
+  },
+  {
+    "name": "AS_88",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_88.png",
+    "rect": {
+      "x": 403,
+      "y": 1548,
+      "width": 73,
+      "height": 104
+    }
+  },
+  {
+    "name": "AS_89",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_89.png",
+    "rect": {
+      "x": 200,
+      "y": 1542,
+      "width": 73,
+      "height": 104
+    }
+  },
+  {
+    "name": "AS_90",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_90.png",
+    "rect": {
+      "x": 513,
+      "y": 1889,
+      "width": 79,
+      "height": 117
+    }
+  },
+  {
+    "name": "AS_90green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_90green.png",
+    "rect": {
+      "x": 126,
+      "y": 1954,
+      "width": 81,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_91",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_91.png",
+    "rect": {
+      "x": 3,
+      "y": 1863,
+      "width": 79,
+      "height": 117
+    }
+  },
+  {
+    "name": "AS_92",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_92.png",
+    "rect": {
+      "x": 3,
+      "y": 1948,
+      "width": 79,
+      "height": 117
+    }
+  },
+  {
+    "name": "AS_93",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_93.png",
+    "rect": {
+      "x": 738,
+      "y": 1901,
+      "width": 79,
+      "height": 117
+    }
+  },
+  {
+    "name": "AS_94",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_94.png",
+    "rect": {
+      "x": 890,
+      "y": 1335,
+      "width": 71,
+      "height": 85
+    }
+  },
+  {
+    "name": "AS_94green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_94green.png",
+    "rect": {
+      "x": 972,
+      "y": 1433,
+      "width": 72,
+      "height": 85
+    }
+  },
+  {
+    "name": "AS_95",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_95.png",
+    "rect": {
+      "x": 580,
+      "y": 1321,
+      "width": 71,
+      "height": 85
+    }
+  },
+  {
+    "name": "AS_96",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_96.png",
+    "rect": {
+      "x": 556,
+      "y": 1398,
+      "width": 71,
+      "height": 85
+    }
+  },
+  {
+    "name": "AS_97",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_97.png",
+    "rect": {
+      "x": 881,
+      "y": 1412,
+      "width": 71,
+      "height": 85
+    }
+  },
+  {
+    "name": "AS_98",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_98.png",
+    "rect": {
+      "x": 3,
+      "y": 1376,
+      "width": 71,
+      "height": 85
+    }
+  },
+  {
+    "name": "AS_99",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_99.png",
+    "rect": {
+      "x": 767,
+      "y": 486,
+      "width": 61,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_100",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_100.png",
+    "rect": {
+      "x": 647,
+      "y": 483,
+      "width": 61,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_101",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_101.png",
+    "rect": {
+      "x": 194,
+      "y": 536,
+      "width": 61,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_102",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_102.png",
+    "rect": {
+      "x": 279,
+      "y": 1309,
+      "width": 73,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_102green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_102green.png",
+    "rect": {
+      "x": 310,
+      "y": 1542,
+      "width": 74,
+      "height": 87
+    }
+  },
+  {
+    "name": "AS_103",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_103.png",
+    "rect": {
+      "x": 3,
+      "y": 214,
+      "width": 55,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_104",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_104.png",
+    "rect": {
+      "x": 443,
+      "y": 223,
+      "width": 55,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_105",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_105.png",
+    "rect": {
+      "x": 663,
+      "y": 226,
+      "width": 55,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_106",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_106.png",
+    "rect": {
+      "x": 918,
+      "y": 169,
+      "width": 55,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_107",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_107.png",
+    "rect": {
+      "x": 112,
+      "y": 218,
+      "width": 55,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_108",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_108.png",
+    "rect": {
+      "x": 201,
+      "y": 470,
+      "width": 60,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_109",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_109.png",
+    "rect": {
+      "x": 537,
+      "y": 412,
+      "width": 60,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_110",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_110.png",
+    "rect": {
+      "x": 527,
+      "y": 478,
+      "width": 60,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_111",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_111.png",
+    "rect": {
+      "x": 777,
+      "y": 420,
+      "width": 60,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_112",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_112.png",
+    "rect": {
+      "x": 657,
+      "y": 417,
+      "width": 60,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_113",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_113.png",
+    "rect": {
+      "x": 546,
+      "y": 963,
+      "width": 64,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_114",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_114.png",
+    "rect": {
+      "x": 3,
+      "y": 945,
+      "width": 64,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_115",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_115.png",
+    "rect": {
+      "x": 546,
+      "y": 1033,
+      "width": 64,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_116",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_116.png",
+    "rect": {
+      "x": 3,
+      "y": 1015,
+      "width": 64,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_117",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_117.png",
+    "rect": {
+      "x": 3,
+      "y": 1085,
+      "width": 64,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_118",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_118.png",
+    "rect": {
+      "x": 206,
+      "y": 809,
+      "width": 64,
+      "height": 69
+    }
+  },
+  {
+    "name": "AS_119",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_119.png",
+    "rect": {
+      "x": 209,
+      "y": 739,
+      "width": 64,
+      "height": 69
+    }
+  },
+  {
+    "name": "AS_120",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_120.png",
+    "rect": {
+      "x": 203,
+      "y": 879,
+      "width": 64,
+      "height": 69
+    }
+  },
+  {
+    "name": "AS_121",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_121.png",
+    "rect": {
+      "x": 989,
+      "y": 629,
+      "width": 64,
+      "height": 70
+    }
+  },
+  {
+    "name": "AS_122",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_122.png",
+    "rect": {
+      "x": 91,
+      "y": 1157,
+      "width": 65,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_122green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_122green.png",
+    "rect": {
+      "x": 290,
+      "y": 1165,
+      "width": 65,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_123",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_123.png",
+    "rect": {
+      "x": 895,
+      "y": 1117,
+      "width": 65,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_124",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_124.png",
+    "rect": {
+      "x": 794,
+      "y": 1116,
+      "width": 65,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_125",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_125.png",
+    "rect": {
+      "x": 391,
+      "y": 1169,
+      "width": 65,
+      "height": 95
+    }
+  },
+  {
+    "name": "AS_126",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_126.png",
+    "rect": {
+      "x": 599,
+      "y": 1105,
+      "width": 64,
+      "height": 91
+    }
+  },
+  {
+    "name": "AS_127",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_127.png",
+    "rect": {
+      "x": 953,
+      "y": 906,
+      "width": 64,
+      "height": 91
+    }
+  },
+  {
+    "name": "AS_128",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_128.png",
+    "rect": {
+      "x": 300,
+      "y": 1095,
+      "width": 64,
+      "height": 91
+    }
+  },
+  {
+    "name": "AS_129",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_129.png",
+    "rect": {
+      "x": 397,
+      "y": 1099,
+      "width": 64,
+      "height": 91
+    }
+  },
+  {
+    "name": "AS_130",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_130.png",
+    "rect": {
+      "x": 271,
+      "y": 954,
+      "width": 64,
+      "height": 91
+    }
+  },
+  {
+    "name": "AS_131",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_131.png",
+    "rect": {
+      "x": 925,
+      "y": 3,
+      "width": 44,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_132",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_132.png",
+    "rect": {
+      "x": 3,
+      "y": 50,
+      "width": 44,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_133",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_133.png",
+    "rect": {
+      "x": 107,
+      "y": 1086,
+      "width": 65,
+      "height": 82
+    }
+  },
+  {
+    "name": "AS_134",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_134.png",
+    "rect": {
+      "x": 976,
+      "y": 1046,
+      "width": 65,
+      "height": 82
+    }
+  },
+  {
+    "name": "AS_135",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_135.png",
+    "rect": {
+      "x": 3,
+      "y": 1155,
+      "width": 65,
+      "height": 82
+    }
+  },
+  {
+    "name": "AS_136",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_136.png",
+    "rect": {
+      "x": 523,
+      "y": 1804,
+      "width": 79,
+      "height": 89
+    }
+  },
+  {
+    "name": "AS_136green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_136green.png",
+    "rect": {
+      "x": 3,
+      "y": 1776,
+      "width": 78,
+      "height": 88
+    }
+  },
+  {
+    "name": "AS_137",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_137.png",
+    "rect": {
+      "x": 221,
+      "y": 1869,
+      "width": 79,
+      "height": 89
+    }
+  },
+  {
+    "name": "AS_138",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_138.png",
+    "rect": {
+      "x": 222,
+      "y": 1784,
+      "width": 79,
+      "height": 89
+    }
+  },
+  {
+    "name": "AS_139",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_139.png",
+    "rect": {
+      "x": 126,
+      "y": 1863,
+      "width": 79,
+      "height": 89
+    }
+  },
+  {
+    "name": "AS_140",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_140.png",
+    "rect": {
+      "x": 316,
+      "y": 1872,
+      "width": 79,
+      "height": 89
+    }
+  },
+  {
+    "name": "AS_141",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_141.png",
+    "rect": {
+      "x": 229,
+      "y": 3,
+      "width": 41,
+      "height": 107
+    }
+  },
+  {
+    "name": "AS_142",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_142.png",
+    "rect": {
+      "x": 342,
+      "y": 3,
+      "width": 41,
+      "height": 107
+    }
+  },
+  {
+    "name": "AS_143",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_143.png",
+    "rect": {
+      "x": 217,
+      "y": 280,
+      "width": 56,
+      "height": 101
+    }
+  },
+  {
+    "name": "AS_143green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_143green.png",
+    "rect": {
+      "x": 328,
+      "y": 409,
+      "width": 58,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_144",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_144.png",
+    "rect": {
+      "x": 539,
+      "y": 286,
+      "width": 56,
+      "height": 101
+    }
+  },
+  {
+    "name": "AS_145",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_145.png",
+    "rect": {
+      "x": 324,
+      "y": 281,
+      "width": 56,
+      "height": 101
+    }
+  },
+  {
+    "name": "AS_146",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_146.png",
+    "rect": {
+      "x": 772,
+      "y": 229,
+      "width": 56,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_146green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_146green.png",
+    "rect": {
+      "x": 100,
+      "y": 341,
+      "width": 57,
+      "height": 110
+    }
+  },
+  {
+    "name": "AS_147",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_147.png",
+    "rect": {
+      "x": 431,
+      "y": 284,
+      "width": 56,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_148",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_148.png",
+    "rect": {
+      "x": 3,
+      "y": 275,
+      "width": 56,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_149",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_149.png",
+    "rect": {
+      "x": 646,
+      "y": 287,
+      "width": 56,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_150",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_150.png",
+    "rect": {
+      "x": 1008,
+      "y": 53,
+      "width": 54,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_150green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_150green.png",
+    "rect": {
+      "x": 111,
+      "y": 279,
+      "width": 56,
+      "height": 100
+    }
+  },
+  {
+    "name": "AS_151",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_151.png",
+    "rect": {
+      "x": 900,
+      "y": 109,
+      "width": 54,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_152",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_152.png",
+    "rect": {
+      "x": 125,
+      "y": 158,
+      "width": 54,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_153",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_153.png",
+    "rect": {
+      "x": 659,
+      "y": 758,
+      "width": 63,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_154",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_154.png",
+    "rect": {
+      "x": 763,
+      "y": 763,
+      "width": 63,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_155",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_155.png",
+    "rect": {
+      "x": 555,
+      "y": 755,
+      "width": 63,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_156",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_156.png",
+    "rect": {
+      "x": 967,
+      "y": 768,
+      "width": 63,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_157",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_157.png",
+    "rect": {
+      "x": 849,
+      "y": 904,
+      "width": 63,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_158",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_158.png",
+    "rect": {
+      "x": 424,
+      "y": 476,
+      "width": 61,
+      "height": 97
+    }
+  },
+  {
+    "name": "AS_159",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_159.png",
+    "rect": {
+      "x": 98,
+      "y": 468,
+      "width": 61,
+      "height": 97
+    }
+  },
+  {
+    "name": "AS_160",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_160.png",
+    "rect": {
+      "x": 321,
+      "y": 473,
+      "width": 61,
+      "height": 97
+    }
+  },
+  {
+    "name": "AS_161",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_161.png",
+    "rect": {
+      "x": 887,
+      "y": 491,
+      "width": 61,
+      "height": 97
+    }
+  },
+  {
+    "name": "AS_162",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_162.png",
+    "rect": {
+      "x": 278,
+      "y": 884,
+      "width": 64,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_163",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_163.png",
+    "rect": {
+      "x": 107,
+      "y": 1016,
+      "width": 64,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_164",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_164.png",
+    "rect": {
+      "x": 107,
+      "y": 946,
+      "width": 64,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_165",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_165.png",
+    "rect": {
+      "x": 111,
+      "y": 876,
+      "width": 64,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_166",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_166.png",
+    "rect": {
+      "x": 867,
+      "y": 766,
+      "width": 63,
+      "height": 94
+    }
+  },
+  {
+    "name": "AS_166green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_166green.png",
+    "rect": {
+      "x": 3,
+      "y": 401,
+      "width": 59,
+      "height": 89
+    }
+  },
+  {
+    "name": "AS_167",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_167.png",
+    "rect": {
+      "x": 553,
+      "y": 824,
+      "width": 63,
+      "height": 94
+    }
+  },
+  {
+    "name": "AS_168",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_168.png",
+    "rect": {
+      "x": 754,
+      "y": 291,
+      "width": 57,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_168green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_168green.png",
+    "rect": {
+      "x": 588,
+      "y": 349,
+      "width": 57,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_169",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_169.png",
+    "rect": {
+      "x": 712,
+      "y": 354,
+      "width": 57,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_170",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_170.png",
+    "rect": {
+      "x": 464,
+      "y": 348,
+      "width": 57,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_171",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_171.png",
+    "rect": {
+      "x": 340,
+      "y": 346,
+      "width": 57,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_172",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_172.png",
+    "rect": {
+      "x": 216,
+      "y": 343,
+      "width": 57,
+      "height": 118
+    }
+  },
+  {
+    "name": "AS_173",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_173.png",
+    "rect": {
+      "x": 306,
+      "y": 1025,
+      "width": 64,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_173green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_173green.png",
+    "rect": {
+      "x": 86,
+      "y": 807,
+      "width": 63,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_174",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_174.png",
+    "rect": {
+      "x": 950,
+      "y": 976,
+      "width": 64,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_175",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_175.png",
+    "rect": {
+      "x": 426,
+      "y": 1029,
+      "width": 64,
+      "height": 114
+    }
+  },
+  {
+    "name": "AS_176",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_176.png",
+    "rect": {
+      "x": 773,
+      "y": 1259,
+      "width": 69,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_176green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_176green.png",
+    "rect": {
+      "x": 181,
+      "y": 1308,
+      "width": 69,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_177",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_177.png",
+    "rect": {
+      "x": 675,
+      "y": 1256,
+      "width": 69,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_178",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_178.png",
+    "rect": {
+      "x": 3,
+      "y": 1301,
+      "width": 69,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_179",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_179.png",
+    "rect": {
+      "x": 368,
+      "y": 1313,
+      "width": 69,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_180",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_180.png",
+    "rect": {
+      "x": 466,
+      "y": 680,
+      "width": 63,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_180green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_180green.png",
+    "rect": {
+      "x": 377,
+      "y": 678,
+      "width": 63,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_181",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_181.png",
+    "rect": {
+      "x": 288,
+      "y": 676,
+      "width": 63,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_182",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_182.png",
+    "rect": {
+      "x": 3,
+      "y": 736,
+      "width": 63,
+      "height": 83
+    }
+  },
+  {
+    "name": "AS_183",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_183.png",
+    "rect": {
+      "x": 472,
+      "y": 612,
+      "width": 62,
+      "height": 81
+    }
+  },
+  {
+    "name": "AS_184",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_184.png",
+    "rect": {
+      "x": 810,
+      "y": 626,
+      "width": 62,
+      "height": 81
+    }
+  },
+  {
+    "name": "AS_185",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_185.png",
+    "rect": {
+      "x": 466,
+      "y": 1318,
+      "width": 70,
+      "height": 108
+    }
+  },
+  {
+    "name": "AS_185green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_185green.png",
+    "rect": {
+      "x": 442,
+      "y": 1394,
+      "width": 70,
+      "height": 108
+    }
+  },
+  {
+    "name": "AS_186",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_186.png",
+    "rect": {
+      "x": 94,
+      "y": 1383,
+      "width": 70,
+      "height": 108
+    }
+  },
+  {
+    "name": "AS_187",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_187.png",
+    "rect": {
+      "x": 653,
+      "y": 827,
+      "width": 63,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_187green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_187green.png",
+    "rect": {
+      "x": 842,
+      "y": 973,
+      "width": 64,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_188",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_188.png",
+    "rect": {
+      "x": 3,
+      "y": 876,
+      "width": 63,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_189",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_189.png",
+    "rect": {
+      "x": 809,
+      "y": 694,
+      "width": 63,
+      "height": 77
+    }
+  },
+  {
+    "name": "AS_189green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_189green.png",
+    "rect": {
+      "x": 3,
+      "y": 805,
+      "width": 64,
+      "height": 77
+    }
+  },
+  {
+    "name": "AS_190",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_190.png",
+    "rect": {
+      "x": 986,
+      "y": 699,
+      "width": 63,
+      "height": 77
+    }
+  },
+  {
+    "name": "AS_191",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_191.png",
+    "rect": {
+      "x": 370,
+      "y": 885,
+      "width": 64,
+      "height": 81
+    }
+  },
+  {
+    "name": "AS_191green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_191green.png",
+    "rect": {
+      "x": 295,
+      "y": 608,
+      "width": 62,
+      "height": 81
+    }
+  },
+  {
+    "name": "AS_192",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_192.png",
+    "rect": {
+      "x": 755,
+      "y": 971,
+      "width": 64,
+      "height": 81
+    }
+  },
+  {
+    "name": "AS_193",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_193.png",
+    "rect": {
+      "x": 284,
+      "y": 745,
+      "width": 63,
+      "height": 82
+    }
+  },
+  {
+    "name": "AS_193green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_193green.png",
+    "rect": {
+      "x": 627,
+      "y": 686,
+      "width": 63,
+      "height": 82
+    }
+  },
+  {
+    "name": "AS_194",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_194.png",
+    "rect": {
+      "x": 987,
+      "y": 1201,
+      "width": 74,
+      "height": 70
+    }
+  },
+  {
+    "name": "AS_194green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_194green.png",
+    "rect": {
+      "x": 982,
+      "y": 1277,
+      "width": 74,
+      "height": 71
+    }
+  },
+  {
+    "name": "AS_195",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_195.png",
+    "rect": {
+      "x": 529,
+      "y": 1721,
+      "width": 77,
+      "height": 100
+    }
+  },
+  {
+    "name": "AS_195green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_195green.png",
+    "rect": {
+      "x": 819,
+      "y": 1489,
+      "width": 72,
+      "height": 100
+    }
+  },
+  {
+    "name": "AS_196",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_196.png",
+    "rect": {
+      "x": 230,
+      "y": 1701,
+      "width": 77,
+      "height": 86
+    }
+  },
+  {
+    "name": "AS_196green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_196green.png",
+    "rect": {
+      "x": 726,
+      "y": 1487,
+      "width": 72,
+      "height": 87
+    }
+  },
+  {
+    "name": "AS_197",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_197.png",
+    "rect": {
+      "x": 3,
+      "y": 1453,
+      "width": 75,
+      "height": 75
+    }
+  },
+  {
+    "name": "AS_197green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_197green.png",
+    "rect": {
+      "x": 101,
+      "y": 1301,
+      "width": 74,
+      "height": 71
+    }
+  },
+  {
+    "name": "AS_198",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_198.png",
+    "rect": {
+      "x": 981,
+      "y": 1354,
+      "width": 73,
+      "height": 76
+    }
+  },
+  {
+    "name": "AS_198green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_198green.png",
+    "rect": {
+      "x": 117,
+      "y": 1537,
+      "width": 75,
+      "height": 77
+    }
+  },
+  {
+    "name": "AS_199",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_199.png",
+    "rect": {
+      "x": 671,
+      "y": 1331,
+      "width": 71,
+      "height": 96
+    }
+  },
+  {
+    "name": "AS_199green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_199green.png",
+    "rect": {
+      "x": 307,
+      "y": 1464,
+      "width": 72,
+      "height": 98
+    }
+  },
+  {
+    "name": "AS_200",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_200.png",
+    "rect": {
+      "x": 95,
+      "y": 602,
+      "width": 62,
+      "height": 93
+    }
+  },
+  {
+    "name": "AS_200green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_200green.png",
+    "rect": {
+      "x": 3,
+      "y": 337,
+      "width": 58,
+      "height": 91
+    }
+  },
+  {
+    "name": "AS_201",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_201.png",
+    "rect": {
+      "x": 555,
+      "y": 682,
+      "width": 66,
+      "height": 66
+    }
+  },
+  {
+    "name": "AS_201green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_201green.png",
+    "rect": {
+      "x": 199,
+      "y": 949,
+      "width": 66,
+      "height": 66
+    }
+  },
+  {
+    "name": "AS_202",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_202.png",
+    "rect": {
+      "x": 990,
+      "y": 494,
+      "width": 61,
+      "height": 73
+    }
+  },
+  {
+    "name": "AS_202green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_202green.png",
+    "rect": {
+      "x": 991,
+      "y": 230,
+      "width": 61,
+      "height": 72
+    }
+  },
+  {
+    "name": "AS_203",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_203.png",
+    "rect": {
+      "x": 996,
+      "y": 1117,
+      "width": 66,
+      "height": 78
+    }
+  },
+  {
+    "name": "AS_203green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_203green.png",
+    "rect": {
+      "x": 903,
+      "y": 1188,
+      "width": 66,
+      "height": 78
+    }
+  },
+  {
+    "name": "AS_204",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_204.png",
+    "rect": {
+      "x": 994,
+      "y": 425,
+      "width": 63,
+      "height": 63
+    }
+  },
+  {
+    "name": "AS_204green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_204green.png",
+    "rect": {
+      "x": 559,
+      "y": 612,
+      "width": 63,
+      "height": 64
+    }
+  },
+  {
+    "name": "AS_205",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_205.png",
+    "rect": {
+      "x": 855,
+      "y": 835,
+      "width": 63,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_205green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_205green.png",
+    "rect": {
+      "x": 651,
+      "y": 896,
+      "width": 63,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_206",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_206.png",
+    "rect": {
+      "x": 688,
+      "y": 1184,
+      "width": 66,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_206green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_206green.png",
+    "rect": {
+      "x": 590,
+      "y": 1175,
+      "width": 66,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_207",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_207.png",
+    "rect": {
+      "x": 878,
+      "y": 292,
+      "width": 58,
+      "height": 89
+    }
+  },
+  {
+    "name": "AS_207green",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_207green.png",
+    "rect": {
+      "x": 973,
+      "y": 297,
+      "width": 58,
+      "height": 89
+    }
+  },
+  {
+    "name": "AS_208",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_208.png",
+    "rect": {
+      "x": 92,
+      "y": 739,
+      "width": 62,
+      "height": 111
+    }
+  },
+  {
+    "name": "AS_209",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_209.png",
+    "rect": {
+      "x": 437,
+      "y": 411,
+      "width": 59,
+      "height": 94
+    }
+  },
+  {
+    "name": "AS_210",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_210.png",
+    "rect": {
+      "x": 3,
+      "y": 466,
+      "width": 60,
+      "height": 89
+    }
+  },
+  {
+    "name": "AS_211",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_211.png",
+    "rect": {
+      "x": 553,
+      "y": 893,
+      "width": 64,
+      "height": 92
+    }
+  },
+  {
+    "name": "AS_212",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_212.png",
+    "rect": {
+      "x": 897,
+      "y": 425,
+      "width": 60,
+      "height": 91
+    }
+  },
+  {
+    "name": "AS_213",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_213.png",
+    "rect": {
+      "x": 95,
+      "y": 535,
+      "width": 61,
+      "height": 93
+    }
+  },
+  {
+    "name": "AS_214",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_214.png",
+    "rect": {
+      "x": 552,
+      "y": 225,
+      "width": 55,
+      "height": 105
+    }
+  },
+  {
+    "name": "AS_215",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_215.png",
+    "rect": {
+      "x": 964,
+      "y": 837,
+      "width": 63,
+      "height": 101
+    }
+  },
+  {
+    "name": "AS_216",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_216.png",
+    "rect": {
+      "x": 901,
+      "y": 53,
+      "width": 50,
+      "height": 101
+    }
+  },
+  {
+    "name": "AS_217",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_217.png",
+    "rect": {
+      "x": 804,
+      "y": 169,
+      "width": 54,
+      "height": 108
+    }
+  },
+  {
+    "name": "AS_218",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_218.png",
+    "rect": {
+      "x": 582,
+      "y": 165,
+      "width": 54,
+      "height": 105
+    }
+  },
+  {
+    "name": "AS_219",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_219.png",
+    "rect": {
+      "x": 581,
+      "y": 1247,
+      "width": 68,
+      "height": 88
+    }
+  },
+  {
+    "name": "AS_220",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_220.png",
+    "rect": {
+      "x": 369,
+      "y": 1240,
+      "width": 67,
+      "height": 94
+    }
+  },
+  {
+    "name": "AS_221",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_221.png",
+    "rect": {
+      "x": 199,
+      "y": 1024,
+      "width": 64,
+      "height": 101
+    }
+  },
+  {
+    "name": "AS_222",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_222.png",
+    "rect": {
+      "x": 871,
+      "y": 1260,
+      "width": 69,
+      "height": 105
+    }
+  },
+  {
+    "name": "AS_223",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_223.png",
+    "rect": {
+      "x": 469,
+      "y": 1244,
+      "width": 68,
+      "height": 106
+    }
+  },
+  {
+    "name": "AS_224",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_224.png",
+    "rect": {
+      "x": 693,
+      "y": 166,
+      "width": 54,
+      "height": 105
+    }
+  },
+  {
+    "name": "AS_225",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_225.png",
+    "rect": {
+      "x": 221,
+      "y": 219,
+      "width": 55,
+      "height": 105
+    }
+  },
+  {
+    "name": "AS_226",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_226.png",
+    "rect": {
+      "x": 332,
+      "y": 220,
+      "width": 55,
+      "height": 105
+    }
+  },
+  {
+    "name": "AS_227",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_227.png",
+    "rect": {
+      "x": 473,
+      "y": 164,
+      "width": 53,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_228",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_228.png",
+    "rect": {
+      "x": 568,
+      "y": 52,
+      "width": 49,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_229",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_229.png",
+    "rect": {
+      "x": 880,
+      "y": 230,
+      "width": 56,
+      "height": 105
+    }
+  },
+  {
+    "name": "AS_230",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_230.png",
+    "rect": {
+      "x": 450,
+      "y": 106,
+      "width": 51,
+      "height": 106
+    }
+  },
+  {
+    "name": "AS_231",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_231.png",
+    "rect": {
+      "x": 231,
+      "y": 105,
+      "width": 51,
+      "height": 104
+    }
+  },
+  {
+    "name": "AS_232",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_232.png",
+    "rect": {
+      "x": 792,
+      "y": 108,
+      "width": 52,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_233",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_233.png",
+    "rect": {
+      "x": 341,
+      "y": 105,
+      "width": 51,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_234",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_234.png",
+    "rect": {
+      "x": 93,
+      "y": 1228,
+      "width": 67,
+      "height": 90
+    }
+  },
+  {
+    "name": "AS_235",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_235.png",
+    "rect": {
+      "x": 125,
+      "y": 101,
+      "width": 51,
+      "height": 100
+    }
+  },
+  {
+    "name": "AS_236",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_236.png",
+    "rect": {
+      "x": 562,
+      "y": 107,
+      "width": 51,
+      "height": 102
+    }
+  },
+  {
+    "name": "AS_237",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_237.png",
+    "rect": {
+      "x": 676,
+      "y": 52,
+      "width": 50,
+      "height": 104
+    }
+  },
+  {
+    "name": "AS_238",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_238.png",
+    "rect": {
+      "x": 786,
+      "y": 52,
+      "width": 50,
+      "height": 109
+    }
+  },
+  {
+    "name": "AS_239",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_239.png",
+    "rect": {
+      "x": 240,
+      "y": 50,
+      "width": 49,
+      "height": 103
+    }
+  },
+  {
+    "name": "AS_240",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_240.png",
+    "rect": {
+      "x": 461,
+      "y": 50,
+      "width": 50,
+      "height": 101
+    }
+  },
+  {
+    "name": "AS_241",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_241.png",
+    "rect": {
+      "x": 755,
+      "y": 1043,
+      "width": 64,
+      "height": 110
+    }
+  },
+  {
+    "name": "AS_242",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_242.png",
+    "rect": {
+      "x": 786,
+      "y": 1188,
+      "width": 65,
+      "height": 111
+    }
+  },
+  {
+    "name": "AS_243",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_243.png",
+    "rect": {
+      "x": 416,
+      "y": 543,
+      "width": 61,
+      "height": 105
+    }
+  },
+  {
+    "name": "AS_244",
+    "source": "assets/game/native/18/18c84d70e.87f44.webp",
+    "output": "AS_244.png",
+    "rect": {
+      "x": 349,
+      "y": 50,
+      "width": 49,
+      "height": 106
+    }
+  }
+]
